@@ -1,0 +1,123 @@
+
+   List<Map<String, dynamic>> doctors = [
+    {
+      "name": "Dr. Joseph Brostito",
+      "specialization": "Dental Specialist",
+      "image": "https://i.pravatar.cc/100?img=1",
+      "rate": 4.8,
+      "reviews": 120,
+      "distance": "1.2 KM",
+      "schedule": "Mon-Fri",
+      "startTime": "17:00",
+      "endTime": "21:00",
+
+    },
+    {
+      "name": "Dr. Imran Syahir",
+      "specialization": "General Doctor",
+      "image": "https://i.pravatar.cc/100?img=2",
+      "rate": 4.5,
+      "reviews": 98,
+      "distance": "1.5 KM",
+      "schedule": "Mon-Sat",
+      "startTime": "09:00",
+      "endTime": "12:00",
+
+    },
+    {
+      "name": "Dr. Sarah Ali",
+      "specialization": "Cardiologist",
+      "image": "https://i.pravatar.cc/100?img=3",
+      "rate": 4.9,
+      "reviews": 210,
+      "distance": "2.1 KM",
+      "schedule": "Tue-Sun",
+      "startTime": "10:00",
+      "endTime": "12:00",
+    },
+    {
+      "name": "Dr. Ahmed Hassan",
+      "specialization": "Neurologist",
+      "image": "https://i.pravatar.cc/100?img=4",
+      "rate": 4.7,
+      "reviews": 150,
+      "distance": "3.0 KM",
+      "schedule": "Mon-Fri",
+      "startTime": "08:30",
+      "endTime": "10:00",
+
+    },
+    {
+      "name": "Dr. Emily Johnson",
+      "specialization": "Dermatologist",
+      "image": "https://i.pravatar.cc/100?img=5",
+      "rate": 4.6,
+      "reviews": 175,
+      "distance": "0.8 KM",
+      "schedule": "Mon-Sat",
+      "startTime": "11:00",
+      "endTime": "13:00",
+
+    },
+    {
+      "name": "Dr. Omar Khaled",
+      "specialization": "Orthopedic Surgeon",
+      "image": "https://i.pravatar.cc/100?img=6",
+      "rate": 4.4,
+      "reviews": 90,
+      "distance": "4.5 KM",
+      "schedule": "Wed-Sun",
+      "startTime": "12:00",
+      "endTime": "15:00",
+
+    },
+    {
+      "name": "Dr. Maria Lopez",
+      "specialization": "Pediatrician",
+      "image": "https://i.pravatar.cc/100?img=7",
+      "rate": 4.9,
+      "reviews": 300,
+      "distance": "2.8 KM",
+      "schedule": "Mon-Fri",
+      "startTime": "09:30",
+      "endTime": "12:00",
+
+    },
+    {
+      "name": "Dr. John Smith",
+      "specialization": "ENT Specialist",
+      "image": "https://i.pravatar.cc/100?img=8",
+      "rate": 4.3,
+      "reviews": 85,
+      "distance": "1.7 KM",
+      "schedule": "Mon-Sat",
+      "startTime": "14:00",
+      "endTime": "18:00",
+
+    },
+    {
+      "name": "Dr. Fatma Noor",
+      "specialization": "Gynecologist",
+      "image": "https://i.pravatar.cc/100?img=9",
+      "rate": 4.8,
+      "reviews": 220,
+      "distance": "3.2 KM",
+      "schedule": "Tue-Sun",
+      "startTime": "10:30",
+      "endTime": "13:00",
+
+    },
+    {
+      "name": "Dr. Michael Brown",
+      "specialization": "Psychiatrist",
+      "image": "https://i.pravatar.cc/100?img=10",
+      "rate": 4.7,
+      "reviews": 140,
+      "distance": "5.0 KM",
+      "schedule": "Mon-Fri",
+      "startTime": "15:00",
+      "endTime": "18:00",
+    },
+  ];
+
+
